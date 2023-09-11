@@ -1,0 +1,14 @@
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\bin\Debug\net7.0\CalculatorPairProgramming.exe
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\bin\Debug\net7.0\CalculatorPairProgramming.deps.json
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\bin\Debug\net7.0\CalculatorPairProgramming.runtimeconfig.json
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\bin\Debug\net7.0\CalculatorPairProgramming.dll
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\bin\Debug\net7.0\CalculatorPairProgramming.pdb
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.AssemblyInfoInputs.cache
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.AssemblyInfo.cs
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.csproj.CoreCompileInputs.cache
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.dll
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\refint\CalculatorPairProgramming.dll
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.pdb
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.genruntimeconfig.cache
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\ref\CalculatorPairProgramming.dll

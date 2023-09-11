@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPqcc8Irpde1FFWfErhZI00xc1ERo+afe3EfSo+PQjeM56yhMaJ8Xb31PlwsIqBNbzjA10DubDaPJjP7oZbqfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MadMe\\RiderProjects\\CalculatorPairProgramming\\CalculatorPairProgramming\\CalculatorPairProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MadMe\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\MadMe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\MadMe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\MadMe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

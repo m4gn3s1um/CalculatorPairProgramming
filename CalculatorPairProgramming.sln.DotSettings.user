@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=35c00327_002Dc5dd_002D4a46_002D9f6f_002D2a66fa235a7e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Reset" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47884C44-55D5-470F-8711-98FF4BF8A8CD::net7.0::CalculatorTest.Tests.Reset&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47884C44-55D5-470F-8711-98FF4BF8A8CD::net7.0::CalculatorTest.Tests.AddTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47884C44-55D5-470F-8711-98FF4BF8A8CD::net7.0::CalculatorTest.Tests.SubtractTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47884C44-55D5-470F-8711-98FF4BF8A8CD::net7.0::CalculatorTest.Tests.DivideTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47884C44-55D5-470F-8711-98FF4BF8A8CD::net7.0::CalculatorTest.Tests.MultiplyTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47884C44-55D5-470F-8711-98FF4BF8A8CD::net7.0::CalculatorTest.Tests.ModulusTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
