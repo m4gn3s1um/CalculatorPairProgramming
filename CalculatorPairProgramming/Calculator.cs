@@ -4,15 +4,21 @@ public class Calculator : IntCalculator
 {
     public int Result { get; set; }
     
+    public int Memory { get; set; }
+    
+    
+    
     public void Reset()
     {
+        Memory = Result;
         Result = 0;
+        
     }
 
     public void Add(int x)
     {
         
-        if (x > 2147483647 - Result || x < -2147483648 + Result )
+        if (x > Int32.MaxValue - Result || x < Int32.MinValue + Result )
         {
             throw new OverflowException("Number was too big");
         }
@@ -24,7 +30,7 @@ public class Calculator : IntCalculator
 
     public void Subtract(int x)
     {
-        if (x > 2147483647 - Result || x < -2147483648 + Result )
+        if (x > Int32.MaxValue - Result || x < Int32.MinValue + Result )
         {
             throw new OverflowException("Number was too big");
         }
@@ -36,7 +42,7 @@ public class Calculator : IntCalculator
 
     public void Multiply(int x)
     {
-        if (x > 2147483647 / Result || x < -2147483648 * Result )
+        if (x > Int32.MaxValue / Result || x < Int32.MinValue * Result )
         {
             throw new OverflowException("Number was too big");
         }
@@ -59,5 +65,25 @@ public class Calculator : IntCalculator
     public void Modulus(int x)
     {
         Result = Result % x;
+    }
+
+    public void ResetMemory()
+    {
+        Memory = 0;
+    }
+
+    public void AddMemory()
+    {
+        Memory = Memory + Result;
+    }
+
+    public void SubtractMemory()
+    {
+        Memory = Memory - Result;
+    }
+
+    public int GetMemory()
+    {
+        return Memory;
     }
 }

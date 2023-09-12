@@ -13,11 +13,15 @@ public class Tests
     {
         _calculator = new Calculator();
         _calculator.Result = 42;
+        _calculator.Memory = 10;
     }
 
     [Test]
     public void Reset()
     {
+        _calculator.Reset();
+        
+        Assert.That(_calculator.Memory.Equals(42));
         Assert.That(_calculator.Result == 0);
     }
 
@@ -64,4 +68,34 @@ public class Tests
         
         Assert.That(_calculator.Result.Equals(2));
     }
+
+    [Test]
+    public void CanResetMemory()
+    {
+        _calculator.ResetMemory();
+        Assert.That(_calculator.Memory == 0);
+    }
+
+    [Test]
+    public void CanAddMemory()
+    {
+        _calculator.AddMemory();
+        Assert.That(_calculator.Memory.Equals(52));
+    }
+
+    [Test]
+    public void CanSubtractMemory()
+    {
+        _calculator.SubtractMemory();
+        Assert.That(_calculator.Memory.Equals(-32));
+    }
+
+    [Test]
+
+    public void CanGetMemory()
+    {
+        Assert.That(_calculator.GetMemory().Equals(10));
+    }
+    
+    
 }

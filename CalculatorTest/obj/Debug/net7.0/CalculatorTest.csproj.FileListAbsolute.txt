@@ -103,3 +103,4 @@ C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorTest\obj\Debug\
 C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorTest\obj\Debug\net7.0\CalculatorTest.pdb
 C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorTest\obj\Debug\net7.0\CalculatorTest.genruntimeconfig.cache
 C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorTest\obj\Debug\net7.0\ref\CalculatorTest.dll
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorTest\obj\Debug\net7.0\CalculatorTest.sourcelink.json

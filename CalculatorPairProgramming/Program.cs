@@ -4,8 +4,9 @@ using CalculatorPairProgramming;
 
 Calculator cc = new Calculator();
 
-cc.Result = 2000000000;
+cc.Result = 100;
+cc.Memory = 50;
 
-cc.Modulus(200000000);
-
+cc.Reset();
 Console.WriteLine(cc.Result);
+Console.WriteLine(cc.Memory);

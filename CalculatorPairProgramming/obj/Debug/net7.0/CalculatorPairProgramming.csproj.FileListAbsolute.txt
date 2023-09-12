@@ -12,3 +12,4 @@ C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming
 C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.pdb
 C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.genruntimeconfig.cache
 C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\ref\CalculatorPairProgramming.dll
+C:\Users\MadMe\RiderProjects\CalculatorPairProgramming\CalculatorPairProgramming\obj\Debug\net7.0\CalculatorPairProgramming.sourcelink.json
